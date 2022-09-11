@@ -1,6 +1,4 @@
 {
-  "posts": [
-    {
       "bigcard": [
         {
           "id": 1,
@@ -10,9 +8,7 @@
           "author": "Annita Katee",
           "body":"There are two types of people in the world: those who change up their jewelry to match their outfits and those who sport the same pieces and rarely rotate."
         }
-      ]
-    },
-    {
+      ],
       "longcard": [
         {
           "id": 2,
@@ -38,9 +34,7 @@
           "author": "Noella Williams",
           "body":"It'll set the semester off on the right foot."
         }
-      ]
-    },
-    {
+      ],
       "smallcard": [
         {
           "id": 5,
@@ -68,5 +62,4 @@
         }
       ]
     }
-  ]
-}
+
