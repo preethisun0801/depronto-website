@@ -53,8 +53,9 @@
 }
 .navbar-contents {
     display:none;
+    position:fixed;
     background-color: white;
-    width:100%;
+    width:100vw;
     margin:0;
   border-radius: 4px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
@@ -62,7 +63,7 @@
 }
 .navbar-items li:hover .navbar-contents {
     display:flex;
-    width:100vw;
+    width:100%;
     height:auto;
     justify-content: space-evenly;
     align-items: justify;
