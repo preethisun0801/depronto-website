@@ -1,0 +1,7 @@
+.longcard {
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: 'Playfair Display',serif;
+}

@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "bigcard": [
+        {
+          "id": 1,
+          "category": "Organisation",
+          "title": "My Grandma's Signature Jewelry Cleaning Recipe Cuts Through Dirt and Grime with Ease",
+          "imageUrl": "depronto-website/public/images/bigcard.jpg",
+          "author": "Annita Katee",
+          "body":"There are two types of people in the world: those who change up their jewelry to match their outfits and those who sport the same pieces and rarely rotate."
+        }
+      ]
+    },
+    {
+      "longcard": [
+        {
+          "id": 2,
+          "category": "News",
+          "title": "This $13 Amazon Find Totally Changed the Vibe of My Bungalow’s Windows",
+          "imageUrl": "depronto-website/public/images/longcard.jpg",
+          "author": "Noella Williams",
+          "body":"It'll set the semester off on the right foot."
+        },
+        {
+          "id": 3,
+          "category": "News",
+          "title": "According to TikTok, Here's The One Dorm Room Essential You Need",
+          "imageUrl": "depronto-website/public/images/longcard.jpg",
+          "author": "Noella Williams",
+          "body":"It'll set the semester off on the right foot."
+       },
+        {
+          "id": 4,
+          "category": "News",
+          "title": "According to TikTok, Here's The One Dorm Room Essential You Need",
+          "imageUrl": "depronto-website/public/images/longcard.jpg",
+          "author": "Noella Williams",
+          "body":"It'll set the semester off on the right foot."
+        }
+      ]
+    },
+    {
+      "smallcard": [
+        {
+          "id": 5,
+          "category": "Trends",
+          "title": "The Top WFH Trends Include Having Privacy, According to Airbnb and Houzz",
+          "imageUrl": "depronto-website/public/images/small-card.jpg",
+          "author": "Inigo Del Castillo",
+          "body":"You know that the work-from-home trend is here to stay when it now has its own set of trends."
+        },
+        {
+          "id": 6,
+          "category": "Trends",
+          "title": "The Top WFH Trends Include Having Privacy, According to Airbnb and Houzz",
+          "imageUrl": "depronto-website/public/images/small-card.jpg",
+          "author": "Inigo Del Castillo",
+          "body":"You know that the work-from-home trend is here to stay when it now has its own set of trends."
+        },
+        {
+          "id": 7,
+          "category": "Trends",
+          "title": "The Top WFH Trends Include Having Privacy, According to Airbnb and Houzz",
+          "imageUrl": "depronto-website/public/images/small-card.jpg",
+          "author": "Inigo Del Castillo",
+          "body":"You know that the work-from-home trend is here to stay when it now has its own set of trends."
+        }
+      ]
+    }
+  ]
+}
